@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <link rel="stylesheet" href="./myCanvas.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>王思源的画板</title>
+  <canvas id="canvasA" width=300 height=300></canvas>
+
+  <div id="actions" class="actions">
+    <img src="./img/pen.png" alt="pen" width="30px;" height="30px;" id="pen">
+    <img src="./img/eraser.png" alt="eraser" width="30px;" height="30px;" id="eraser">
+    <img src="./img/clear.png" alt="clear" width="30px;" height="30px;" id="clear">
+    <img src="./img/save.png" alt="save" width="30px;" height="30px;" id="download">
+  </div>
+
+  <ol class="colors">
+    <li id="pink" class="pink"></li>
+    <li id="green" class="green"></li>
+    <li id="purple" class="purple"></li>
+  </ol>
+
+  <ol class="sizes">
+    <li>
+        <img src="./img/brush.png" alt="brush" width="30px;" height="30px;"id="brush">
+    </li>
+    <li>
+        <img src="./img/brush2.png" alt="brush2" width="30px;" height="30px;"id="brush2" >
+    </li>
+  </ol>
+
+  <script src="./myCanvas.js"></script>
+</html>
