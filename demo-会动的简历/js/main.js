@@ -114,16 +114,6 @@ laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in repreh
 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
 non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-谢博真是奇男子
-他今天跟我说，我买了一罐牛奶，可以喝一个月！太爽了！我说，你给我看看？
-【图片传送中。。。】
-我问他，你每次怎么喝的呀
-他说，第一次喝觉得美国的牛奶好浓哦，我就兑了水再喝，一个星期才喝了1/4，快夸我机智！
-我问他，是不是兑了水，这个牛奶还是有些油腻呢？
-他说，你怎么知道！
-我说，因为这是淡奶油，做蛋糕每次只用加一点点的配料
-谢博说，哦。
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
 laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
