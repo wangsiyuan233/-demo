@@ -4,7 +4,7 @@
 
 【平均用时 2.3 天】
 [【我的代码】](https://github.com/wangsiyuan233/MyHomeworks/tree/master/demo-%E5%B0%8FMorty)
-[【效果预览】](http://wangsiyuan233.cn/MyHomeworks/demo-%E5%B0%8FMorty/index.html)
+[【效果预览】](http://wangsiyuan233.cn/MyHomeworks/demo-%E5%B0%8FMorty/MyMorty.html)
 
 ### 任务目的
 
