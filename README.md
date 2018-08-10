@@ -1,6 +1,6 @@
 # Demo
 
-## demo-会动的简历
+## 一、demo-会动的简历
 
 【平均用时 0.3 天】
 [【我的代码】](https://github.com/wangsiyuan233/MyHomeworks/tree/master/demo-%E4%BC%9A%E5%8A%A8%E7%9A%84%E7%AE%80%E5%8E%86)
@@ -32,7 +32,7 @@ writeCss('', css1, ()=>{ // writeCss call the function
 2、 想要在 页面呈现出的代码在 JS 里
 
 
-## demo-小Morty
+## 二、demo-小Morty
 
 【平均用时 0.3 天】
 [【我的代码】](https://github.com/wangsiyuan233/MyHomeworks/tree/master/demo-%E5%B0%8FMorty)
